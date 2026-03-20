@@ -15,4 +15,4 @@ Run the simulation here:
 https://edaplayground.com/x/abcd
 
 ## Output
-![Waveform](waveform.png)
+![Waveform](https://www.edaplayground.com/x/vHpm)
